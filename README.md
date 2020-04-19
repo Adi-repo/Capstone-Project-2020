@@ -10,5 +10,5 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
 
   1. To install required packages run command -
    > pip3 install -r requirements.txt
-  2. To check results run command -
+  2. To get the results run command -
    > python3 evaluate.py
