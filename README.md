@@ -1,4 +1,4 @@
-###### ** ** Model - P 1-D CNN
+###### ** Model - P 1-D CNN
 
 ###### ** ** Accuracy - 97.0% 
 
