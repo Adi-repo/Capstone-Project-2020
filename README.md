@@ -15,7 +15,8 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
   2. To get the results run command -
    > python3 evaluate.py
    
-_**MODEL SCHEMA**_
+
+**MODEL SCHEMA :-**
 
 
 ![Model Design](https://github.com/Adi-repo/Capstone_Project_2020/blob/master/images/Model_design.png)
