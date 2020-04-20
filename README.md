@@ -16,7 +16,7 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
    > python3 evaluate.py 
    
  ####      
-   #### **MODEL SCHEMA :-** 
+   
 
 
 
