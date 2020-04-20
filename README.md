@@ -9,8 +9,8 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
 - ##### The Code is written in Python3. To check the results follow below given steps:
 
   1. To install required packages run command -
-   > conda install -r requirements.txt
-     #####   or
    > pip3 install -r requirements.txt
+     #####   or
+   > conda install -r requirements.txt
   2. To get the results run command -
    > python3 evaluate.py
