@@ -16,7 +16,7 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
    > python3 evaluate.py
    
    
- <pre> #### **MODEL SCHEMA :-** </pre>
+ #### **MODEL SCHEMA :-** 
 
 
 ![Model Design](https://github.com/Adi-repo/Capstone_Project_2020/blob/master/images/Model_design.png)
