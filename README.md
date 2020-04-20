@@ -17,7 +17,7 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
    
 
 
-**MODEL SCHEMA :-**
+### **MODEL SCHEMA :-**
 
 
 ![Model Design](https://github.com/Adi-repo/Capstone_Project_2020/blob/master/images/Model_design.png)
