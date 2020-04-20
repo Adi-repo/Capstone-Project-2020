@@ -22,7 +22,7 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
 
 ![Model Design](https://github.com/Adi-repo/Capstone_Project_2020/blob/master/images/Model_design.png)
 
-- BN - Batch Normalization
-- Conv - Convolutional Layer
-- FC - Fully Connected Layer
-- DO - Dropout Layer
+- __BN__ - Batch Normalization
+- __Conv__ - Convolutional Layer
+- __FC__ - Fully Connected Layer
+- __DO__ - Dropout Layer
