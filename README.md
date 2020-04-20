@@ -16,7 +16,13 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
    > python3 evaluate.py
    
 
+
 **MODEL SCHEMA :-**
 
 
 ![Model Design](https://github.com/Adi-repo/Capstone_Project_2020/blob/master/images/Model_design.png)
+
+- BN - Batch Normalization
+- Conv - Convolutional Layer
+- FC - Fully Connected Layer
+- DO - Dropout Layer
