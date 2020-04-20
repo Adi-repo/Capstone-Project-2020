@@ -20,7 +20,7 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
 
 
 
-![Model Design](https://github.com/Adi-repo/Capstone_Project_2020/blob/master/images/Model_design.jpeg)
+![Model Design](https://github.com/Adi-repo/Capstone_Project_2020/blob/master/images/Model_design.jpg)
 
 - __BN__ - Batch Normalization
 - __Conv__ - Convolutional Layer
