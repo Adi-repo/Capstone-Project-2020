@@ -13,7 +13,7 @@ Reference - https://arxiv.org/pdf/1608.04064v1.pdf
      #####   or
    > conda install -r requirements.txt
   2. To get the results run command -
-   - [x] python3 evaluate.py 
+   > python3 evaluate.py 
    
    
  #### **MODEL SCHEMA :-** 
